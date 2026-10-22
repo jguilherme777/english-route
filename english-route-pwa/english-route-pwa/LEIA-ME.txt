@@ -1,5 +1,0 @@
-English Route (PWA)
-1. Descompacte esta pasta.
-2. Hospedagem gratuita: arraste a pasta inteira em app.netlify.com/drop (ou suba os arquivos em um repositório do GitHub e ative o GitHub Pages).
-3. Abra o endereço gerado no Chrome ou Edge e use "Instalar app". Depois da primeira visita, funciona offline.
-4. Seu progresso fica salvo no navegador daquele aparelho. Use Mais > Exportar backup de vez em quando.
